@@ -25,6 +25,12 @@ header {
   border-bottom: 5px solid black;
 }
 
+#featured {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 30px;
+}
+
 main {
   text-align: center;
 }
